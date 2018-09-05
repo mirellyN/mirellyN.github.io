@@ -1,0 +1,17 @@
+.navbar{
+   background-color: lightskyblue;
+}
+.inicio{
+    background-image: url("../images/images.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+
+#conteudoInicio{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.conteudo{
+    height: 100%;
+    padding-top: 40px;
+}
